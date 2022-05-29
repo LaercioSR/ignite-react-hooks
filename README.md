@@ -6,7 +6,7 @@
 </p>
 
 <h4 align="center">
-🚧  Project in Progress  🚧
+✅  Finished Project  ✅
 </h4>
 
 <p align="center">
@@ -24,9 +24,9 @@ More details in:
 - [Challenge Description](description/challenge.md)
 - [Challenge Description (Portuguese)](description/desafio.md)
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/LaercioSR/ignite-react-hooks/main/public/screenshot.png" height="auto" width="80%" alt="Screenshot" />
-</p> -->
+</p>
 
 ## How to Run
 
