@@ -130,8 +130,8 @@ In this file, we have three important points to be implemented:
 
 ```jsx
 {
-1:4,
-2: 3
+    1:4,
+    2: 3
 }
 ```
 

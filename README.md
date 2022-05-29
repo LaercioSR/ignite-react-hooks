@@ -2,11 +2,8 @@
   <a href="https://www.rocketseat.com.br/">
     <img src="https://raw.githubusercontent.com/LaercioSR/ignite-react-hooks/main/public/rocketseat-logo.png" height="120" width="auto" alt="Rocketseat Logo" />
   </a>
+  <img src="https://raw.githubusercontent.com/LaercioSR/ignite-react-hooks/main/src/assets/images/logo.svg" height="50" width="auto" alt="Rocketshoes Logo" />
 </p>
-<div align="center">
-  <h1>ROCKETSHOES</h1>
-  <img src="https://raw.githubusercontent.com/LaercioSR/ignite-react-hooks/main/src/assets/images/logo.svg" height="90" width="auto" alt="Rocketshoes Logo" />
-</div>
 
 <h4 align="center">
 🚧  Project in Progress  🚧
@@ -23,8 +20,9 @@
 Online shoe sales system. Repository containing the solving the hooks challenge developed during the Ignite track of React from [Rocketseat](https://www.rocketseat.com.br/).
 
 More details in:
-[Challenge Description](description/challenge.md)
-[Challenge Description (Portuguese)](description/desafio.md)
+
+- [Challenge Description](description/challenge.md)
+- [Challenge Description (Portuguese)](description/desafio.md)
 
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/LaercioSR/ignite-react-hooks/main/public/screenshot.png" height="auto" width="80%" alt="Screenshot" />
