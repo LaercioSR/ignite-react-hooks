@@ -58,6 +58,7 @@ export function CartProvider({ children }: CartProviderProps): JSX.Element {
           }
         });
       }
+      console.log(cart);
       localStorage.setItem("@RocketShoes:cart", JSON.stringify(cart));
     } catch {
       toast.error("Erro na adição do produto");
